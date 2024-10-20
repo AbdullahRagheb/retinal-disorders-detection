@@ -32,7 +32,7 @@ Images of various retinal diseases identified through the clinical trials using 
 - **PED**: Pigment Epithelium Detachment Region
 - **CME**: Cystoid Macular Edema
 
-![image.png](attachment:00225242-fed7-4dff-bc94-0cd96f24d8a3.png)
+![image.png](attachment:An-OCT-image-showing-a-double-layer-sign-in-a-patient-with-CMD-in-CSCR-arrowheads-A.png)
 
 ## Methods
 
