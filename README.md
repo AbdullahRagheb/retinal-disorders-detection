@@ -78,8 +78,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Contact
 For any inquiries or issues, feel free to contact the project team at abdullahragheb12@icloud.com.
-
-vbnet
-Copy code
-
-This complete `README.md` covers everything from the project description, installat
